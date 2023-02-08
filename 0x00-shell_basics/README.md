@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with . )
+Task 0. Where am i?
